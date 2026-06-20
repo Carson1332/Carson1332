@@ -1,6 +1,4 @@
-# Carson · Seesen
-
-中文文档 | README in English
+# Carson1332 · Seesen
 
 我是 Carson，一個寫程式的人。做過量化交易，也在銀行做過 machine learning，現在在做 **Seesen**。
 
